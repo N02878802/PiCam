@@ -4,6 +4,6 @@
 * templates - All website pages, such as the index/home page
 * piCam4.py - Flask web framework, handles all web page requests. 
  * Imported libraries:
-   *  Pygame Python
-   *  Sqlite3
-   *  RPIO.PWM
+    *  Pygame Python
+    *  Sqlite3
+    *  RPIO.PWM
