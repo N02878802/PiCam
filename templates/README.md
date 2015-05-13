@@ -3,5 +3,5 @@
  * Library/frameworks used:
     * jQuery
     * AngularJS
-    * Bootstrap
+    * Twitter Bootstrap
 * old - Older versions of piCam4b.html
