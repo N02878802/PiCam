@@ -1,5 +1,6 @@
 # PiCam - Embedded Linux Final
 
+###Project Directory
 * static - Directory of all static server files, such as images and databases
  * imgs - Directory that contains all saved webcam pictures
  * piCam.db - Database that stores all image information
