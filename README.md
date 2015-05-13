@@ -1,2 +1,5 @@
-# PiCam
-Embedded Linux 
+# PiCam - Embedded Linux Final
+
+* static - Directory of all static server files, such as images and databases
+* templates - All website pages, such as index/home page
+* piCam4.py - Flask web framework, handles all web page requests.
