@@ -1,4 +1,4 @@
-# PiCam - Embedded Linux Final
+# PiCam
 
 ###Project Directory
 * static - Directory of all static server files, such as images and databases
